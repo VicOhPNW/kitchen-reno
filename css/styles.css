@@ -24,6 +24,24 @@ body {
   background-color: black;
 }
 
+.red_theme {
+  background-color: red;
+  border: black 2px solid;
+
+}
+
+.yellow_theme {
+  background-color: yellow;
+  border: black 2px solid;
+
+}
+
+.blue_theme {
+  background-color: blue;
+  border: black 2px solid;
+
+}
+
 h1 {
   font-family: cursive;
   font-weight: bold;
