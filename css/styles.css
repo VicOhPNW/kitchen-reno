@@ -1,0 +1,33 @@
+body {
+  /*background-color: lightgrey*/
+}
+
+.renoimg {
+  float: left;
+  width: 250px;
+  padding: 1px;
+  background-color: yellow;
+}
+
+.about {
+  float: left;
+  font-family: sans-serif;
+  text-align: center;
+  width: 20%
+}
+
+.pcolumn {
+
+  height: 250px;
+  /*width: 500px;*/
+  /*margin-right: 500px;*/
+  background-color: black;
+}
+
+h1 {
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 80px;
+  text-align: center;
+  color: teal;
+}
